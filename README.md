@@ -1,2 +1,7 @@
 # ScienceDb.github.io
-github pages that redirect to https://zendro-dev.github.io/
+
+We moved to a new location:  
+https://github.com/Zendro-dev 
+  
+Find the documentation here:  
+https://zendro-dev.github.io/
